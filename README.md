@@ -23,9 +23,7 @@ Safe Pass is a web-based app that helps you generate strong, random passwords th
 
 To install necessary dependencies, run the following command:
 
-```
 Safe Pass is a web-based app that does not require any installation. Simply navigate to the app's website to begin using it. 
-```
 
 ## Usage
 
@@ -35,13 +33,6 @@ To use Safe Pass, simply navigate to the app's website and click on the "Generat
 
 Safe Pass is an open-source app and contributions are welcome. If you would like to contribute to the app, please submit a pull request with your proposed changes.
 
-## Tests
-
-To run tests, run the following command:
-
-```
-
-```
 
 ## License
 
