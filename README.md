@@ -1,6 +1,8 @@
 # Safe Pass
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) 
 
+Deployed Site - https://colearrington98.github.io/Safe-Pass/
+
 ## Description
 
 Safe Pass is a web-based app that helps you generate strong, random passwords that meet certain criteria, ensuring that your sensitive information remains secure. With Safe Pass, you can easily generate complex passwords for your online accounts, without having to worry about the security implications of using weak or easily guessable passwords. 
