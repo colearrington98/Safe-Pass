@@ -3,6 +3,8 @@
 
 Deployed Site - https://colearrington98.github.io/Safe-Pass/
 
+![Screenshot 2023-04-06 131825](https://user-images.githubusercontent.com/119268105/230463432-56c6f316-83d3-4af6-8e9e-911ca7075da4.png)
+
 ## Description
 
 Safe Pass is a web-based app that helps you generate strong, random passwords that meet certain criteria, ensuring that your sensitive information remains secure. With Safe Pass, you can easily generate complex passwords for your online accounts, without having to worry about the security implications of using weak or easily guessable passwords. 
